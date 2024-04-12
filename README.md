@@ -1,2 +1,2 @@
 # grupo-02-officeking
-Proyecto01
+Receta de Cocina
