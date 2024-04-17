@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-image: url('https://plus.unsplash.com/premium_photo-1707494418432-75f47969643d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-image: url('https://images.unsplash.com/photo-1713288971566-40cd263c2792?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   background-size: cover;
   background-position: center;
 }
@@ -45,11 +45,11 @@ body {
 
 .titulo {
   text-align: center;
-  margin-top: 10vh; /* Usando una unidad relativa para el margen superior */
+  margin-top: 10vh; 
 }
 
 h1 {
-  font-size: 5vw; /* Usando una unidad relativa para el tamaño de fuente */
+  font-size: 5vw;
   color: #765a05; /* Cambié el color a blanco para asegurar que la sombra sea visible */
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -83,8 +83,8 @@ h3 {
 }
 
 h4 {
-	font-size: 20; /* Usando una unidad relativa para el tamaño de fuente */
-	color: #ededed; /* Color rosa */	
+	font-size: 25px; /* Usando una unidad relativa para el tamaño de fuente */
+	color: #05eb78; /* Color rosa */	
 	text-align:left
 }
 
